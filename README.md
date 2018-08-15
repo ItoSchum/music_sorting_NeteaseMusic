@@ -1,4 +1,4 @@
-# Song Sort for Netease Music
+# Music Sorting for Netease Music Downloads
 ## Main Feature
 - Sort up **Netease Music**'s downloads by **Artist Names**.
 
